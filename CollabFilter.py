@@ -145,4 +145,4 @@ if __name__ == '__main__':
     baseline_list = get_recommendation_list(LIST_LENGHT, best_movies_index, df_ratings_filtered)
 
 
-
+    print("test")
